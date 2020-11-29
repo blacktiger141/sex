@@ -15,7 +15,7 @@ Friends Joyson and Prudhvi.
 
 **pip install -r requirements.txt**
 
-**python2 sex.py
+**python sex.py
 # Feautures:
 It contain advance and professional hacking tools For
 For doing Advance level of Hacking., it contain 200+
