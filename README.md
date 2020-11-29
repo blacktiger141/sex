@@ -9,15 +9,13 @@ Another hacking tools., Thanks to my Hacker
 Friends Joyson and Prudhvi.
 
 # Installation 
-**git clone https://github.com/Anon-Divyanth/H-Tool**
+**git clone https://github.com/blacktiger141/sex**
 
-**cd H-Tool**
+**cd sex**
 
 **pip install -r requirements.txt**
 
-**python Htool.py**
-# Screenshot:
-![alt text](https://github.com/Anon-Divyanth/H-Tool/blob/master/core/0A02EFF0-2639-42E4-9D87-15CAAA58CFD7.jpeg)
+**python2 sex.py
 # Feautures:
 It contain advance and professional hacking tools For
 For doing Advance level of Hacking., it contain 200+
